@@ -6,4 +6,18 @@ public class CRUDService {
         // send it to database related part
 
     }
+    public static void read(){
+        //create a user
+        // send it to database related part
+
+    }
+    public static void update() {
+        //create a user
+        // send it to database related part
+
+    }
+    public static void delete() {
+        //create a user
+        // send it to database related part
+    }
 }
